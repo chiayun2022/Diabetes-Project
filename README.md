@@ -11,6 +11,6 @@
 
 ## Task 2
 * /Task 2/SAS code: all codes used to analyze.  
-* /Task 2/Data: The dataset which used in this process.
+* /Task 2/Dataset: The dataset which used in this process.
 
 * /Task 2/task2_discussion.pptx: introduce the task 2.  
